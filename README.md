@@ -2,7 +2,7 @@
 In this project I will be investigating and do analysis and making visualization to 10000 movie data set to answer some questions every step is illustrated in the notebook , after every step I did there are a markdown cell
 
 This data set contains information
-about 10,000 movies collected from
+about 10,000 movies collected and cleaned from
 The Movie Database (TMDb) 
 Source kaggle 
 url : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
